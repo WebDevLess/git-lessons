@@ -1,5 +1,8 @@
 header {
-    background-color: aqua;
+    background-color: #9e9e9e;
     width: 100%;
-    height: 800px;
+    height: 400px;
+    text-align: center;
+    color: #fff;
+    font-family: cursive;
 }
